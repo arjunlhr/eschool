@@ -23,7 +23,7 @@ include('./maininclude/header.php');
       <h5> <i class="fa fa-users"></i> Expert Instructors</h5>
     </div>
     <div class="col-sm-2 col-md-3 text-white">
-      <h5> <i class="fa fa-keybord-0"></i> Lifetime Access</h5>
+      <h5> <i class="fa fa-keybord"></i> Lifetime Access</h5>
     </div>
     <div class="col-sm-2 col-md-3 text-white">
       <h5> <i class="fas fa-rupee-sign"></i> MoneyBack Gurantee</h5>
