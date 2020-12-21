@@ -46,7 +46,7 @@ include('./maininclude/header.php');
         echo '
           <a href="coursedetails.php?course_id=' . $course_id . '" class="btn" style="text-align: left; padding:0px; margin: 0px;">
             <div class="card">
-              <img src="' . str_replace('..', '.', $row['course_img']) . '" alt="" class="card-img-top">
+              <img src="' . str_replace('..', '.', $row['course_img']) . '" alt="" class="card-img-top" width="128" height="200">
               <div class="card-body">
                 <h5 class="card-title text-dark">' . $row['course_name'] . '</h5>
                 <p class="card-text text-dark">' . $row['course_desc'] . '</p>
